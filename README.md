@@ -21,7 +21,7 @@ https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-pytho
 # regresion y clasificacion
 desde este [link](https://www.tensorflow.org/) seguir:
 
-para clasificacion:
+para regresion y clasificacion:
 - _Aprende_
 - _TensorFlow_
 - _Instructivos_
