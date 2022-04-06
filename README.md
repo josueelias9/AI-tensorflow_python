@@ -36,3 +36,10 @@ para xxx:
 - _Instructivos y guia_
 - _Conceptos básicos de los recomendadores_
 - _Recomendacion de peliculas: recuperación_
+
+# COCOSD
+## referencias oficiales
+- COCOSD - [link](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
+- pure javascript - parametros Rest [link](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+- pure javascript - getContext [link](https://developer.mozilla.org/es/docs/Web/API/HTMLCanvasElement/getContext)
+- pure javascript - rect [link](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/rect)
