@@ -18,25 +18,33 @@ https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-pytho
 - hadoop vs spark vs kafka vs storm vs 
 - https://www.ibm.com/cloud/blog/hadoop-vs-spark
 
-# regresion y clasificacion
+# Ejemplos
 desde este [link](https://www.tensorflow.org/) seguir:
 
-para regresion y clasificacion:
-- _Aprende_
+regresion y clasificacion:
+- _Learn_
 - _TensorFlow_
-- _Instructivos_
-- _Conceptos básicos de AA con Keras_
-    - _Regresión_ gasolina
-    - _Clasificacion de imagenes básica_ MINST de mod
+- _Tutorials_
+- _ML basics with Keras_
+  - _Basic image classification_ (MINST de mod)
+  - _Text classification with TF Hub_
+  - _Regression_ (gasolina)
 
-para xxx:
-- _Recursos_
-- _Bibliotecas y extensiones_
+Recomendadores:
+- _Resources_
+- _Libraries & extensions_
 - _TensorFlow Recommenders_
-- _Instructivos y guia_
-- _Conceptos básicos de los recomendadores_
-- _Recomendacion de peliculas: recuperación_
+- _Guide & Tutorials_
+- _Recommender basics_
+  - _Recommending movies: retrieval_
+  - _Recommending movies: ranking_
 
+Text generation:
+- _Resources_
+- _Libraries & extensions_
+- _TensorFlow Text_
+- _Tutorials_
+  - _Generate Text with RNNs_
 # COCOSD
 ## referencias oficiales
 - COCOSD - [link](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd)
